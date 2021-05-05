@@ -7,3 +7,5 @@
 Hope you follow my profile. :)
 
 For contact, DM me in Discord: **katch!#9233**
+
+![katch GitHub stats](https://github-readme-stats.vercel.app/api?username=katchxd&show_icons=true&theme=tokyonight)

@@ -1,4 +1,4 @@
-- Hello! I am katch. 14y old programmist from Russia. Welcome to my GitHub profile! 🙂
+- Hello! I am dreamnights. 14y old programmist from Russia. Welcome to my GitHub profile! 🙂
 
 - I know languages like Java, Python, C#. And currently learning C/C++, Kotlin. My favorite language is Java. 🥳
 
@@ -6,6 +6,6 @@
 
 Hope you follow my profile. :)
 
-For contact, DM me in Discord: **katch!#9233**
+For contact, DM me in Discord: **dreamnights#6404**
 
 ![katch GitHub stats](https://github-readme-stats.vercel.app/api?username=katchxd&show_icons=true&theme=tokyonight)
